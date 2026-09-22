@@ -1,0 +1,8 @@
+app:
+  name: DOT
+  environment: development
+
+assistant:
+  voice_enabled: false
+  memory_enabled: false
+  browser_enabled: false
